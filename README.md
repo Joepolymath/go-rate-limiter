@@ -9,13 +9,13 @@
 
   ```bash
   go get github.com/go-redis/redis
-  go get github.com/Joepolymath/ratelimiter
+  go get github.com/Joepolymath/go-rate-limiter
   ```
 
 - Import
   ```go
   import "github.com/go-redis/redis"
-  import limiter "github.com/Joepolymath/ratelimiter"
+  import limiter "github.com/Joepolymath/go-rate-limiter"
   import "time"
   ```
 

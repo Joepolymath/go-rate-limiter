@@ -1,4 +1,4 @@
-module github.com/Joepolymath/ratelimiter
+module github.com/Joepolymath/go-rate-limiter
 
 go 1.18
 
